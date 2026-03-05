@@ -1,7 +1,7 @@
-# 👨‍💻 Hi, I'm Anvesh Mahajan! | SDE & CP Enthusiast 🚀
+# 👨‍💻 Anvesh Mahajan | SDE & LeetCode Knight 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Anvesh+Mahajan;Knight+at+LeetCode;Full-Stack+Developer&v=1" alt="Header" />
+  <img src="https://socialify.git.ci/Anvesh7777/Anvesh7777/image?description=Software%20Engineer%20%7C%20LeetCode%20Knight%20%7C%20Full-Stack&font=Inter&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="640" height="320" alt="Anvesh7777" />
 </div>
 
 ---
@@ -14,41 +14,31 @@
 - ⚔️ Expert in **C++, Data Structures, and Algorithms**.
 
 <div align="center">
-  <img height="180em" src="https://leetcard.jacoblin.cool/Anvesh_mahajan1107?theme=dark&font=Recursive&v=1" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Anvesh_mahajan1107?theme=dark&font=Inter" alt="LeetCode Stats" />
 </div>
 
 ---
 
-### 💻 Full-Stack Development & AI
-**Building scalable web solutions with a focus on high-tech UI/UX.**
+### 💻 Development & AI Skills
+- 🤖 **AI Integration:** Specialized in **Hugging Face API** and LLM implementations.
+- 🚀 **Projects:** Built [sih_2025](https://github.com/Anvesh7777/sih_2025) (AI Chatbot), [Learnistiq](https://learnistiq.vercel.app/), and [Codexlive](https://codexlive.vercel.app/).
 
-- 🤖 **sih_2025:** Student dashboard with an **AI chatbot** (Hugging Face integration).
-- 🚀 **[Learnistiq](https://learnistiq.vercel.app/):** Modern Learning Platform.
-- 🛠️ **[Codexlive](https://codexlive.vercel.app/):** Collaborative Dev Tool.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,tailwind,git,github" alt="Skills" />
+</div>
 
 ---
 
 ### 📊 GitHub Insights
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anvesh7777&show_icons=true&theme=tokyonight&include_all_commits=true&v=1" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesh7777&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anvesh7777&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anvesh7777&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
----
-
-### 📫 Connect with me
+### 📫 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/anvesh77/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anvesh77/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anveshmahajan777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
