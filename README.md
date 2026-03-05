@@ -1,7 +1,7 @@
-# 👨‍💻 Anvesh Mahajan | SDE & LeetCode Knight 🚀
+# 👨‍💻 Hi, I'm Anvesh Mahajan! | SDE & CP Enthusiast 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Software+Engineer;LeetCode+Knight;Full-Stack+Developer" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Anvesh+Mahajan;Knight+at+LeetCode;Full-Stack+Developer&v=5" alt="Header" />
 </div>
 
 ---
@@ -44,6 +44,12 @@
 </div>
 
 ---
+
+### 🛠️ Currently Exploring
+- 🧠 **Advanced AI:** Building RAG-based systems for document intelligence.
+- 🏗️ **System Design:** Studying Microservices and Load Balancing for high-traffic apps.
+
+ ---
 
 ### 📫 Let's Connect
 <p align="center">
