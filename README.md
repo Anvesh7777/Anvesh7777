@@ -1,7 +1,7 @@
-# 👨‍💻 Hi, I'm Anvesh Mahajan! | SDE & CP Enthusiast 🚀
+# 👨‍💻 Anvesh Mahajan | SDE & LeetCode Knight 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Anvesh+Mahajan;Knight+at+LeetCode;Full-Stack+Developer&v=5" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Software+Engineer;LeetCode+Knight;Full-Stack+Developer" alt="Header" />
 </div>
 
 ---
@@ -12,41 +12,35 @@
 - 🎖️ **Knight @ LeetCode** (Top 5% globally)
 - 🧩 **700+ Problems Solved**
 - ⚔️ Expert in **C++, Data Structures, and Algorithms**
-- 💡 Regular participant in **Weekly/Bi-weekly Contests**
 
 <div align="center">
-  <img height="180em" src="https://leetcard.jacoblin.cool/Anvesh_mahajan1107?theme=dark&font=Recursive&v=5" alt="LeetCode Stats" />
+  <img height="180em" src="https://leetcard.jacoblin.cool/Anvesh_mahajan1107?theme=dark&font=Recursive" alt="LeetCode Stats" />
 </div>
 
 ---
 
-### 💻 Full-Stack Development & AI
-**Building scalable web solutions with a focus on high-tech UI/UX.**
+### 💻 Development & AI Projects
+**Building scalable solutions with a focus on high-tech UI/UX.**
 
-- 🤖 **sih_2025:** Student dashboard with an **AI chatbot** (Hugging Face integration) and QR-based attendance
-- 🚀 **[Learnistiq](https://learnistiq.vercel.app/):** A modern learning platform
-- 🛠️ **[Codexlive](https://codexlive.vercel.app/):** Real-time collaborative development tool
-- 🎨 Passionate about **Video/Photo editing** and aesthetic "tech/ai" themed interfaces
+* 🤖 **sih_2025:** Student dashboard with an **AI chatbot** (Hugging Face API) and QR-based attendance.
+* 🚀 **[Learnistiq](https://learnistiq.vercel.app/):** A modern learning platform for seamless user experience.
+* 🛠️ **[Codexlive](https://codexlive.vercel.app/):** Real-time collaborative development tool.
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anvesh7777&show_icons=true&theme=tokyonight&include_all_commits=true&v=5" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anvesh7777&layout=compact&theme=tokyonight&v=5" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Total%20Commits-Click%20to%20See-blue?style=for-the-badge&logo=github" alt="Commits" />
+  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="Top Language" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anvesh7777&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ---
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,tailwind,git,github,vscode" alt="My Skills" />
 </div>
 
 ---
